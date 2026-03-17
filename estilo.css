@@ -1,0 +1,39 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffffff;
+}
+
+body {
+    background-color: #000000;
+    color: #333333;
+    margin: 20px;
+
+}
+
+h1 {
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+div {
+    background-color: #686464;
+    border: 1px solid #000000;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+section{
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+}   
+img {
+    max-width: 100%;
+    border-radius: 4px;
+}
